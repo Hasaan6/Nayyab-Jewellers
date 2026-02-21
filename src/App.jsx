@@ -8,7 +8,7 @@ const products = [
   name: 'Gold Plated Necklace Set',
   category: 'Necklace',
   price: 9000,
-  image: '/Goldplatedset.jpeg',
+  image: 'Goldplatedset.jpeg',
   material: 'Gold Plated Aritificial Jewellery',
   desc: 'Detailed handcrafted necklace set with matching earrings.'
 },
@@ -48,7 +48,7 @@ const products = [
     category: 'Chains',
     price: 3500,
     image:
-      '/mala.jpeg',
+      'mala.jpeg',
     material: 'artificial jewellery',
     desc: 'Set of handcrafted mala for weddings and festive occasions.'
   },
@@ -58,7 +58,7 @@ const products = [
     category: 'Necklace',
     price: 5000,
     image:
-      '/set.jpeg',
+      'set.jpeg',
     material: 'Gold Plated Aritificial Jewellery',
     desc: 'Elegant pearl set with matching earrings.'
   }
